@@ -1,4 +1,4 @@
-﻿$BuildPath = "H:\Development\jamies-super-service-main\"
+﻿$BuildPath = "H:\Development\jamies-super-service-task\"
 $ProdName = "jamiesuperserviceprod"
 $TestName = "jamiesuperservicetest"
 $TestCmd = "docker build -t $($TestName) --target test"
